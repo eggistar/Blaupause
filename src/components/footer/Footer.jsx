@@ -3,7 +3,8 @@ import './Footer.css';
 export default function Footer() {
     return (
         <div id='footer'>
-            Blaupause 0.2.5 created by <a href="https://eggistar.de">eggistar</a> © 2024
+            <a href='https://github.com/eggistar/Blaupause/'>Blaupause 0.2.6</a> created by <a
+            href="https://eggistar.de">eggistar</a> © 2024
         </div>
     );
 }
