@@ -1,0 +1,36 @@
+.newsElement {
+    background-color: rgba(255, 255, 255, 0.2);
+    margin-bottom: 2rem;
+    float: left;
+    min-width: 100%;
+}
+
+.newsElement div {
+    float: left;
+    vertical-align: top;
+    text-align: left;
+    padding: 1.5rem;
+    max-width: 850px;
+}
+
+@media only screen and (max-width: 400px) and (orientation: portrait) {
+    .newsElement div {
+        max-width: 350px;
+        padding: 1rem;
+    }
+}
+
+.newsElement p {
+    font-size: 1.1rem;
+    margin: 0 0 0 0;
+}
+
+.newsElement h2 {
+    margin: 0 0 0.7rem 0;
+    color: #ffffff;
+}
+
+#newsAuthor {
+    margin: 1.2rem 0 0 0 !important;
+    color: #ffffff;
+}
