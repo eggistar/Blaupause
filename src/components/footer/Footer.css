@@ -1,0 +1,23 @@
+#footer {
+    margin-top: auto;
+    text-align: left;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
+
+#footer a:visited {
+    color: #ffffff;
+}
+
+#footer a:active {
+    color: #ffffff;
+}
