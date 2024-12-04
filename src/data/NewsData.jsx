@@ -11,10 +11,13 @@ export const NEWS = [
         category: categories.News,
         title: 'First News',
         news:
-            'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor ' +
-            'invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam ' +
-            'et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est ' +
-            'Lorem ipsum dolor sit amet.ﬂ',
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut <br/>
+                labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+                dolores <br/>
+                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <a href="#">Lorem</a> ipsum dolor
+                sit amet.ﬂ
+            </p>,
         author: 'eggistar',
         date: '13.05.1983'
     },
@@ -24,10 +27,11 @@ export const NEWS = [
         category: categories.News,
         title: 'Second News',
         news:
-            'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor ' +
-            'invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam ' +
-            'et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est ' +
-            'Lorem ipsum dolor sit amet.ﬂ',
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut <br/>
+                labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores <br/>
+                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <a href="#">Lorem</a> ipsum dolor sit amet.ﬂ
+            </p>,
         author: 'eggistar',
         date: '13.05.1983'
     },
@@ -37,10 +41,13 @@ export const NEWS = [
         category: categories.News,
         title: 'Latest News',
         news:
-            'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor ' +
-            'invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam ' +
-            'et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est ' +
-            'Lorem ipsum dolor sit amet.ﬂ',
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut <br/>
+                labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+                dolores <br/>
+                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <a href="#">Lorem</a> ipsum dolor
+                sit amet.ﬂ
+            </p>,
         author: 'eggistar',
         date: '13.05.1983'
     }

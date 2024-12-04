@@ -30,6 +30,23 @@
     color: #ffffff;
 }
 
+.newsElement a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.newsElement a:hover {
+    text-decoration: underline;
+}
+
+.newsElement a:visited {
+    color: #ffffff;
+}
+
+.newsElement a:active {
+    color: #ffffff;
+}
+
 #newsAuthor {
     margin: 1.2rem 0 0 0 !important;
     color: #ffffff;
